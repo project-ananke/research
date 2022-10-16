@@ -1,0 +1,592 @@
+AREA 1
+
+level 0: virus, bacteria, yeast 
+
+level 1: Plankton, shrimp, oysters, barnacles, fungus, mycelium 
+
+level 2: Tuna fish, bass, school fish, frogs, turtles, 
+
+level 3: octopus, ravens, squirrels, dolphins, 
+
+level 4: chimpanzee, gorrila, orangutan,. 
+
+level 5: Human 
+
+level 6: To be determined. 
+
+LEVEL 0:
+
+	Virus: They have a protein shell that contains information for both DNA and RNA
+	for self replication. Virus' are essentially organisms that have a strand of 
+	DNA that has information on its genome, and molecular structures that allows
+	it to self replicate. They self replicate by infecting healthy cells then 
+	forcing them to produce more copies of itself. It is theorized that many many
+	years ago a virus infected a bacteria which then formed the first cell nucleas. 
+	An interesting note in regards to paleoviralogy, is that you can trace
+	back virus' by finding examples of its genetic information within the genome
+	of differing species, which would then allow you to trace them back to their
+	common ancestor, thus estimating the age of the virus. Life itself can be defines
+	by the ability to reproduce, produce energy for itself, and to maintain a stable
+	internal enviroment. Its components are to be able to sense if it approaches a
+	host cell, so a basic sense of "food" this then leads to it reproduing. 
+	So a basic sense and to follow what is essentially an imperative program. 
+
+	Bacteria: Humans themselves have bacteria microbiomes that help us. 
+	almost a symbiotic type relationship, we offer sheltare in exchange
+	for them to help us in certain ways. An example of helpful bacteria
+	are gut bacteria which help us digest food. In exchange, we actually
+	tell our immune systems to not attack them. An interesting note is that
+	gut bacteria play a large role within the human condition, for example 
+	most of our seratonin is produced within the gut, so the condition of 
+	our gut bacteria can actually affect whether we're happy or not. They 
+	can also influence our appetites which is interesting, as certan gut 
+	bacteria consumes certain types of foods. Bacteria dont have a nucleas
+	they have some organelles though. Bacteria reproduce asexually in a process
+	called binary fusion, they essentially just split apart. Some bacteria
+	can actually create their own food, analogous to plants. Bacteria can 
+	carry extra genetic material in something called a plasmid, this material
+	can then be shared with other bacteria in a process called conjugation.
+	If this plasmid were to carry genes that can provide anti bacterial resistance, 
+	then they would essentially make other bacteria resistant to anti biotics.
+	Bacterial transformation is when a bacteria is exposed to some sort of enviromental
+	shock, this stress then induces the bacteria to pick up genetic material.      
+	bacteria can moniter their surroundings, abiotic or biotic, this is done through sensory
+	systems. Bacteria can adapt their behavior and physiology in order to stay alive
+	and eventually reporduce. The plasma membrane allows for the acquiring 
+	of nutrients, the elimination of waste, the mainting of a constant internal 
+	state, it also contains a selective permeable barrier than essentially 
+	type checks whatever chemcicle or ion it ecounters then decides accordingly 
+	depending on the material. Bacteria can generate energy, reporudce. Bacteria
+	can organize themselves into complex strucutres which can form multi celled
+	organisms, such as tissues. 
+
+	Yeast: Its a commonly found fungus. They can exhibit multicellular characterisitcs
+	by forming strings of connected budding cells (pseudophyphae) They reprodce asexually
+	through mitosis. An interesting note on yeast is that they can be used to generate 
+	electricity. Yeast gain energy through chemicle compounds such as sucros, fructos, etc. 
+	Yeast can form fommunites where they can intereact with its enviroment in 
+	order to further optomize the functionality of the yeast. Yeast can interact with other
+	cells through the use of peptides and chemicle compounds, this forms essentially 
+	a type of language. They communicate in order to adapt to their enviroment. 	
+	perhaps yeast adapted to their enviroment by consuming more of sugary substances 
+	as thats how they were used by humans 
+
+	
+LEVEL 1: 
+	Plankton: Plankton are somewhat inhert, just floating around swimming 
+	within the ocean. They essentially clean up the ocean. They also produce
+	a lot of oxygen, they account for 20% of all photosynthesis. Phytoplankton 
+	are single celled organisms that can produce food from the sun and carbon dioxide. 
+	An interesting note is that there are many microscopic organisms within the ocean
+	some exhibit strange behavior, like building a nest from pray, or even fishing. 
+	Most plankton reproduce asexually through something called budding. 
+	Plankton can eat diatoms and other protozoans, some just eat sunlight
+	and produce oxygen. Pythoplankton are crucial to life so they use chemicle 
+	signals to essentially communicate with their predetor zooplankton to not 
+	eat them. 
+
+	Shrimp: Shrimp are fairly larger than plankton and other microscopic beings. 
+	They aswell dont have organells like the previously listen animals. They have 
+	organs such as eyes, stomach, gills, heart, and hepatopancreas. They even have
+	an intestine on their abdomen. Some shrimp to escape predetors flip the seabed
+	to hide themselves. Some shrimp can even change color in their enviroment 
+	in order to hide themselves. Shrimp can bury themselves. Their apendenges 
+	can be used to swim quickly  away from predetors who try to eat them. Mantis 
+	shrimp can see like 12 colors, they're powerful, they can spear other fish and
+	beat them to death. Some shrimp have symbiotic relationships, such as 
+	emperor shrimp and cleaner shrimp and tiger pistol shrimp. Shrimp can reproduce 
+	with opposite gender shrimp. There are male and female shrimp, the male
+	shrimp impregnates the female shrimp, interestingly enough, female choice
+	exists within shrimp, which then produces stronger offspring and prevents
+	inbreeding. Shrimp also have a basic form of communication, being able
+	to make sounds which can then be interpereted by other shrimp. Other fish
+	do not eat cleaner shrimp, which is very interesting. Apparently, other
+	fish know not to eat cleaner shrimp based on their striped patterns and their
+	antenna movements. The fish would pose (stay still) then the cleaner shrimp
+	perform movements with their attena signaling that they want to clean them
+	and get a free meal. After this, the fish changes to a darker color, the
+	cleaning then begins. cleaner shrimp are color blind, thats why a darker pigmentation
+	is neccesary. Fish will actually change their behavior in order to get cleaned
+	they'll choose cleaning over mating and food oppurtunities. They'll even
+	migrate to locations with more cleaners. 
+
+	Oysters: They are mollusks held tight within a shell. They are filter feeders.
+	They can also clean water. They can sort food from silt, they're good water
+	filters. Oysters reproduce by broadcast spawning, they can switch genders from male
+	to female etc. Oysters need seeds to latch onto to. Oysters are actually bred
+	to have 3 chromosomes, this is done through genetic engineering by humans. Some 
+	oysters have 2 genders others have both sperm and eggs. Oysters can apparently
+	communicate through the use of shell closing and opening in reponses to their enviroment. 
+	Oysters can respond to their enviroment somewhat, by closing their shell until high 
+	tide return or by limiting the occurence of reproduction depending on the 
+	temperature of the water. Oysters have 2 masses of nerves but no brain. 
+
+	Barnacles: Crustacians that are bound to a hard surface, which can be 
+	turtles and crabs even. The barnacles shell closes when it is not underwater. 
+	Barnacles are both male and female and use their elongated sex organ to 
+	reach out and fertilize any nearby eggs. They secrete a cement like substance in
+	order to stay put. Barnacles stretch out apendages to gather food from 
+	the sea and to eat it. Proximity is necessary for reproduction so adult 
+	barnacles within groups secrete chemicles that tell younger barnacles to
+	come closer to setlle with them. 
+
+	Fungi/Mycelium: mushroom are kinda roots rooting out from fungi in order to 
+	release out spores to reproduce. Certain fungi can actually mind control insects
+	in order to reproduce. Anti bacteria resistant bacteria put upon certain fungi
+	can stimulate the release of compounds designed to essentially them off.  	
+	An interesting note is that fungi can and have had applications within medicine,
+	chemistry, biology, and even civil engineering, as well as of course food. 
+	IDEA::<generalize the process of hypothesising applications when given certain 
+	substances, proccesses, materials, concepts, etc. Then implement in some sort of 
+	software, idealized software would give reccomendations on different areas 
+	to research to solve an academic or perhaps even an engineering problem>
+
+	Certain fungi such as slime molds can solve mazes, form communities, 
+	and even form networks similar to man made tunnel systems. Correction:
+	It can can improve the layout of man made networks. The first multi cellular
+	life to have ever been found on fossil record is a mycelian network, suggesting
+	that complex life may have emerged from fungi. An interesting note is that fungi
+	were instrumental to the decrease of size from pre historic animals to 
+	relatively modern animals, as it was the emergence of lignin eating fungi that
+	decomposed the co2 within dead trees which eventually decreased the massive 
+	concentration of o2 within the atmosphere. The zombie fungi can control 
+	ants to move to very high ledges to then colonize them. Many mushroom produce 
+	very very useful and harmful chemicle compounds, from poisonous mushrooms to 
+	mushrooms that can regrow human neurons and even anti carcenegenic mushroom. 
+	 
+
+	Fungi can interconnect different components of nature like trees. They can communicate 
+	through the web to share information of things like pests, share nutrients, etc. Trees on the network survive much better. 
+
+	Mycelium are essentially fungi networks, they have much higher gene expression compared to the 
+	fruit body stage (mushroom) Older trees have deeper denser networks, this networks are biased, 
+	where trees would give more nutrients to their kin. 
+	An interesting note is that mycelium can be implemented within casts to form plastics. 
+	Fubgi can eat rock so to speak, releasing acid to extract a meal of minerals. Fungi were some of the 
+	first living creature. Ancient fungi resembled trees. Nutrients from dead creatures are released by fungi. 
+	Hiphea envelop tree routes to exchange water and minerals for sugars. An interesting note on fungi infections is that 
+	they can happen to humans and be more frequent thanks to global warming. 
+
+LEVEL 2:
+
+	Tuna: Tuna can actually regulate its own body temperature. They're one of 
+	the few warmblooded fish. An interesting note is that mackerals form up 
+	balls in order to scare predators (doesnt work) yellow fin tuna can 
+	perform manuvers at high speed to catch pray. Blue fin tuna resemble a
+	tear drop in shape, the most hydrodynamic shape possible. The fins in the
+	tuna are retractable. Tuna reproduce by releasing sperm and eggs into the
+	water. Despite tuna traversing entire oceans, they always return to their
+	place of birth to spawn. Tuna can form schools in accordance to size. An
+	interesting note is that fish can communicate with eachother using 
+	techniques such as movements, electrical signals, chemical signals, 
+	biolumisescants, etc. The hunting technique of the tune is fairly 
+	specialized, their greatest attribute is speed so they mostly just 
+	swim down prey and swallow them. Tuna are believed to be exceptionally intelligent
+	being able to adapt to fishing techniques. It should be noted that the 
+	bluefin tuna have exceptional navigation abilities, its plausible that 
+	this can occur throgh chemical mapping as tuna have acute senses of smell.    
+	The yellow fin itself has a magnatite in its brain. It should be noted that
+	its been reported that certain schooling fish have the ability of knowledge transfer, 
+	
+	
+	Bass: They hunt by ambushing their prey, they use surprise and speed as
+	hunting tools. When conditions meet, a male bass would actually prepare
+	a location to spawn eggs, then would search out for a receptive female. 
+	A male bass would fan the nest of eggs to oxygenate them. Male bass go weeks
+	without eating for weeks in order to tend to their spawn. Very few baby
+	fish actually make it to live, which explains why so many are spawned. 
+	Bass travel together based on size. Large mouth bass are the most intelligent
+	of all the game fish, they can learn to recognize specific lures that hooked them. 
+	Fish can actually remember people. I have found an example of a female bass
+	which rememembers a man, and would often visit him and chase off other fish 
+	from him.
+	
+	School Fish: schooling is an interesting example of emergence. Schooling 
+	fish focus on just 2 rules, dont stay too far or too close to your neihgbor
+	and keep swimming. All examples of emergence can be broken down to 
+	basic rules. An interesting note is that the basic function of the neuron 
+	is to either exite or inhibit other neruons. Fish can actually adjust the
+	rythm of tail beats to take advantage of vortexes to save energy. Herring fish
+	will get a higher respiritory rate when seperated from a school, this stress
+	encourages social behavior. Being in a school provides many benifits to 
+	fish, like preventing predetors from wiping them out one by one, reproduction, 
+	and foraging. Fish swim in a grid where the distance between them is equal to 
+	the jump length of the predetor fish. An interesting not is that predetors 
+	have developed counters to schoaling, dolphine for example herd them then 
+	take turns coming in and eating the densly packed fish. Another technique is
+	to herd them to shallower water to more easily pick them apart. The craziest 
+	technique is for one dophin to dive into the school and herd them into a 
+	barrier of dolphins who then slaps their fluke punching them into the air
+	the dolphine then leap into the air and eat them. Dolphins can even cooperate
+	with human hunters, who herd schools into nets, the dissorention of the
+	nets allows the dolphine to quickly snatch up the fish. Some whales lunge feed
+	where they accelerate to high speeds below schools then lunge upwards eating them. 
+	fish mostly use their eyes and lateral lines to know when to school, they 	
+	actually develop the ability to school from a young age, shoaling with just a pair
+	as they mature they become more advanced at it and eventually shoal with many 
+	other fish. 
+
+	Frogs: amphibions, they eat anything, even other frogs. Frogs breeed
+	throgh amplexis which fertilizes eggs externally. The females are much 
+	larger than the males. Frogs start off as tadopole herbavores, they eventually
+	grow legs and become frogs. Poisson dart frogs evolved to have poisson 
+	within them, killing any animal that attempts to eat them. Frog skin 
+	served respiritory function and excretes a substance to keep it moist and
+	protected. Certain frogs burrow and live underground. Frogs mainly communicate vocaly
+	they can also communicate through the use of hopping and other visual cues. Frogs
+	hunt using their sticky tongues to get insects and even small animals, they
+	usually wait for one to pass by them then pounce on them. Some frogs protect
+	eggs until they hatch, some create create channels to save eggs from drying up, 
+	others swallow them then protect them from danger then later regurgitate them   
+
+	Turtles: many eggs are layed on the beach to ensure that some make it to the ocean. 
+	The gender of the hatchling are determined by temperature. Sea turtles hve
+	magnetite within their brains, they have an internal gps. Most turtles are
+	oppurtinstic omnivors just eating whatever they can by ambush, the snapping
+	turtle has an apendog on its tongue that looks like a worm to lure in fish. 
+	Turtles can communicate through sound but its mainly for mating and cohesion 
+	for migration. Turtles like to rape eachother apparently. Turtles can touch eachother, 
+	squirt water, and blink in order to communicate which is typically done during coutship. 
+	Turtles are fairly intelligent, they instinctually retreat into their shell when there is danger
+	they can solve mazes, remember people, and remember what time to eat.
+	Interestingly enough other males would try to wedge the male sea turtle off the
+	female in order to mate instead, they'll do things like blast airbubbles, bite flippers, 
+	and even try to stick their head between them. Turtles fling more sand to
+	hide the location of their eggs. Turtles only return to the place of their
+	birth when they are large enough, until then, they migrate to safer ocean.
+	Turtles have pretty good spatial awareness.  
+
+LEVEL 3:
+
+	Octopus: Octopus can squirt out ink to get away from predators, it a 
+	sort of distraction. It can also camoflauge itself to blend into its
+	surroundings. They are the smartest inverterbrate. Octopus can use intelligence
+	to solve puzzles, open difficult containers, and go through mazes. The intelligence 
+	of the octopus is distrivuted amongst its body, for example most of its intelligence is
+	distributed among its legs. If you were to cut the leg of an octopus it would
+	have somewhat of a mind of its own, it would actually autonomously hunt
+	for food and even bring it back to the main body. The only hard part of
+	the octopus is its beak, this allows it to squeeze into tight spaces. 
+	One of its legs has sperm in in. When octopus places eggs onto the roof
+	of sea cavern, she would stay and fan gently the egs with water, she would
+	actually starve to death during this process. Octopus can retain complex memories, 
+	use tools and use foresight, and use visual cues. They can even play. 
+	The ink has tyrenosous which can block senses, it can also compromise repiristory 
+	functions. Certain octopus can actually change their texture, some can even
+	manipulate their shape to mimick other animals. Octopuses are believed to 
+	have their own personalities. They can learn and change their behavior over 
+	time. Octopus camoglouge reaction times are faster than the fastest reaction times,
+	around 200 milliseconds. An interesting note is that octopus have a large 
+	quanitity of neurons, around 1/2 billion or so, this rivals dogs, this is 
+	strange as octopuses evolved from a complete sperate evolutionary branch from mammals 
+	or vertbrates in general. Octopus can actually plan, a good example is
+	an octopus carrying cocounut shells to a place where there is not much shelter,
+	to then use it as shelter. This is also an example of tool use. An experiment
+	conducted showed that pill bottles pushed with water jets would get shot down
+	by the octopus, similar to bouncing a ball. One should note that play is 
+	not evolutionarily neccessary for the octopus. Apparently there have
+	been some cases of octopus hunting cooperatively with other fish. Octopus
+	saliva has a paralizing effect which it uses when hunting. Octopuses 
+	can apparently communicate through postering and changing colors.  
+	Octopus display pale colors when they are being friendly and show darker
+	colors when they are going to get aggresive and fight other octopus. 
+	Octopus can actually recognize different humans. Octopus can build dens 
+	using rocks and other materials that they find. 
+
+	Ravens (I will include crows): Ravens can gather food then hide them from other birds, if he thinks hes
+	been spotted he would then flea. Ravens would actually pretend to make 
+	caches to trick other birds. Ravens can actually partner up, stay together in a certain area,
+	and then actually stay together for ever, almost like marriage. Ravens can pass things
+	beak to claw whilst flying. They could be playing or they could be teasing 
+	other ravens. Ravens make and mimmick more sounds than any other animal. 
+	Ravens have a unique dive, some think its for fun. Ravens can actually meet up
+	together and play. An interesting note is that crows are also extremely intelligent,
+	the can utilize the size and power of crows top open nuts, hold grudges, and
+	many more. Crows were able to figure out to drop rocks into floating items
+	in order to get the food out. Certail crows actually constructed tools in
+	order to solve certain puzzles. Crows are also able to pick out certain 
+	keys in order to get certain foods in boxes. An interesting note is that the
+	cereberal cortex within our brain is often assosiated with complex mental 
+	abilites, the pallium within the raven brain has similar circuitry and neural
+	structure to the cereberal cortex. The cereberal cortex has nerve fibers 
+	running horizontally and vertically. Many such cases reject the social 
+	intelligence hypothesis. Ravens can sometimes play with wolf pups. 
+
+	Squirrels: Squirrels are known to collect nuts and even raid birds nests
+	to eat eggs and chicks. Squirrels cache food during the autumn to store 
+	for the winter to hibernate, as food is in short supply during Winter. 
+	Squirrels typically hibernate in small drays that they build, they 
+	also give birth in these drays. Squirrels would actually use deception
+	when making caches, trying to confuse potential spys. Squirrels can 
+	apprently learn from other animals. Squirrels can actually remember the 
+	caches months later. Squirrels test for seeds and holes within nuts
+	to know if they're worth burrying. Squirrels can remember the locations
+	of up to 10,000 nuts that they bury within a 7 acre wide area. They use whats
+	called a memory map in order to acheive this. Typically we use landmarks
+	to map out locations for certain things, squirrels do the same thing, they use
+	unique parts of the location like perhaps a fellen tree or a bush or whatever. 
+	They also organize their nuts, they put their peanuts in one place, and
+	their hazeluts in another place. Similar to China town and little italy 
+	if you want a human like analogy. They have a 90% success rate recovering nuts. 
+	Squirrels communicate in a variety of ways, they can tail wave, chirp, or bark.
+	If a squirrel has a human host, they will oftem remember them. The sound that
+	they communicate can vary in intent, from asking their mothers for food, to
+	warning of danger, to looking for a mate, and for communicating aggresion.
+	Female choice is apparent within squirrels, they choose the strongest male
+	after they give off a scent to attract mates. Male squirrels try to 
+	block the vagina with a wax like substance to be the only sire.   
+	
+	Dolphins: The brain to body ratio is second only to humans. Dolphins employ
+	a tactic to hunt fish by kicking up sand and then another signals to the other
+	dolphins to catch the escaping fish. Dolphins pass down this behavior 
+	from generation to generation. Some dolphins have actually exhibited tool use
+	they would place sponges on their nose to avoid sharp corals from damaging them. 
+	Dolphins can also understand languages that were built from hand gestures and whistles. 
+	Dolphins are also one of the few species to have self recognition and
+	meta cognition. Dolphins mourn the dead and even help drowning humans. 
+	Dolphins were able to use teamwork to solve puzzles. Another interesting hunting
+	strategy is to use tactics to establish shoaling fish bait balls. Orcas
+	females actually play with pup seals in order to teach their calves. 
+
+	Chimpanzees: OOOH OOOH HAAAA HAAAA. Chimpanzees "laugh" when having fun, and apparently kiss
+	aswell when making up after some sort of fight. The validity of this
+	I think is uncertain. Chimpanzees have used sticks as dipping sticks to extract 
+	honey from holes. This behavior was actually learned through other chimps
+	and was essentially spread and passed on. Chimps actually understand the
+	concept of trade and value. Chimp society is highly social, they base 
+	society on family and friendships. Chimps are apparently not fooled by 
+	robotic spy animals, meaning that they can actually tell if something is off. 
+	A chimp has actually hid one of these robots. The chimp didnt want
+	to share the turtle robot and kept yelling at the other chimps. Chimpanzees
+	have been observed to wage war against other tribes and hunt monkeys, they have specific roles
+	in combat, some are ambushers, blockers, and driver. Chimpanzees fight 
+	off rival communities. Young chimps attempt to impress troop leaders
+	in order to get accepted into their ranks. In response they got increasingly
+	angry at him and attacked them. The purpose of ranks is to distribute the
+	best food and to get the attention of females. Chimps have a very very
+	basic form of language but its really just ways to communicate through
+	facial expressions and screams. They have facial expressions for play,
+	for fear, for aggresion, etc. Chimp communities are structured into 
+	groups, these can be all male groups designed for hunting meat, or all
+	female groups designed for nursing young. Chimps are somewhat autonomous
+	they usually do things like forage for food on their own or in small groups
+	rather than a parent community. Chimps are within whats called a fission
+	fusion society, they are typically dynamic in size, composition, and location. 
+	Interestingly enough the power strucuture somewhat evolves from the amount of allies
+	one chimp may have, as any coallition that can exhibit violence can then
+	be prime for taking over some higher end position. Social grooming is very
+	important for chimps who are forming any type of bond or coallition.
+	I suppose mating is somewhat like a commodity within chimp society, from
+	the looks of it they have female choice, reproductive access is also sometimes
+	restricted only to high ranking males. It has been observed that females 
+	may mate with multiple males within the community and even mate with 
+	chimps outside of their community. It has said that alternate mating 
+	strategies exist to allow females opportunities whilst also not loosing
+	favor within their community. Some mothers practice infanticide, no one
+	really knows why. Baby chimps are helpless, they rely on their mothers 
+	for many many months. Chimpanzees have passed the mirror test, have been
+	seen using insects to tend to wounds, establish culutre (different grooming and
+	foraging techniques and what not). Chimpanzees have a basic understanding
+	of numbers and can even cooperate together to solve puzzles for food. 
+	It should be noted that cooperation would he held with the best cooperator 
+	within the community and then competition would arise which would decrease 
+	cooperation and then would rise back to high levels after punishments were
+	introduces and other arbitrage behaviours. Chimps react to the dead, 
+	theyll yell out wildely when a chimp would suddendly die, and would
+	care for dying elders and avoid the place they died at and act subdued. 
+	Chimps apprently lack theory of mind from certain experiments. Tool use has
+	been reported to occur within chimps, they can use twigs and sticks to 
+	gather honey and to dip for ants, they can also use stones to crack open nuts. 
+	Language doesnt really exist within chimps, in experiments its more 
+	like drills then actual linguistic understanding. Some chimp males
+	actually trade meat with females for sex. 
+
+	Gorrilas: Gorillas are relatively peacful, they are fairly tolerant with baby
+	gorillas and even members of other species. There have been examples of gorillas
+	being protective of human children, they are usually calm and gentlte 
+	with baby gorillas, supposedly this softness makes them more attractive. 
+	There have been gorillas who have been cared for in captivity by humans who
+	would later remember them after many years. The gorilla in this example
+	would respond the calls of the man and come to ashore to see him, remembering his voice. 
+	The gorillas actually embraced the human to a degree and introduced him 
+	to his family. When the man left the gorillas actually decided to follow the
+	boat. He stayed opposite to where the man slept, he stayed up all night
+	to see him bassicly. There has been a video of a mother showing a 
+	female gorillas her kid, the female gorillas also showed her hers, 
+	and appeared to reach out to grab the kid, of course there was glass.
+	Gorillas try to impress females, they do this with displays of strength.
+	Gorillas have a vocalization for position. Their structure consists of one dominant male, 
+	a bunch of females, and kid gorillas. When a male matures after 12 years he goes on to start his own family, 
+	sometimes with a splinter group. Gorillas have a range of behaviors when a gorilla dies, from no reaction at all,
+ 	to members of the group actually paying respects to the dead gorilla. Female gorillas fear the prospect of male gorillas
+ 	not acting nice to their kids so they mate with every male to avoid this. This also happens with dolphins apparently. 
+	An interesting note is that bonobos are like domesticated chimps, they have smaller brains smaller heads are less aggressive and 
+	have less of a physical difference between males and females, similar to domesticated animals. They are not domesticated by humans though 
+	which is strange. Bonobos are relatively sex crazed, especially when there is social tension. There was a water bird incident with a chimp, 
+	a chimp which was taught sign language saw a swan and said water bird with sign language. There are essentially 2 schools of thought with language, 
+	behaviorist and nome chompsky school, behaviorist just says that language is like a type writer and a chimp, every good word said is reinforced, 
+	eventually language is developed. The behaviorist then state that any thing can be taught language. Chompsky disagreed, there are elements
+ 	in language consistent along cultures, and thus language is something that is uniquely human and is not based on reinforcements as 
+	that would be way too compliated. The swan bird incident was essentially a counter to chompsky. Koko was taught about 100 different 
+	signs with her having a growth spurt of around 2 years, similar to human development. Koko could do things like describe things and 
+	even lie. Apparently koko grieved for Robin Williams, eventually she learned up to 2000 signs. Koko couldn't be a mom but still wanted
+	 to become one, so she adopted a kitten. Nim chimpsky was a chimp taught sign language, it turns out that he had randomly occurred words
+ 	and would interrupt in conversation and would never initiate, these things are present in children who can actually communicate. 
+	Patterson uses individual examples to showcase kokos abilities, there is very little raw data. Koko and other monkeys are bruteforcing
+	 answers and follow prompts. Apes never stop mimicking they never begin original language. 
+	
+	Orangutans: Orangutans are highly intelligence apes, known to escape
+	zoos and use very basic tools. Fu manchu an orangutan, hid a metal pick
+	under its cheek pouch to escape. Orangutans spent a lot of time with their
+	mothers, this allows them to learn from their mothers like how to get 
+	food and what not. Female orangutans stay with their mothers to learn 
+	how to take care of young. Oranugtans build nests. They can turn branches
+	to swat flys and scratch their backs, they can build umbrellas, and 
+	even use plants to tend to their wounds. Orangutans also passed the 
+	mirror test. Orangutans also have foresight, in experiments they chose
+	straws over fruits just in case they encountered more soup boxes that needed
+	straws. 
+
+LEVEL 5:
+	
+
+	Humans: Humans are of course the most intelligent animal on earth. 
+	We have developed things like language to communicate with eachother, 
+	this type of communication is ever evolving, going from basic oral language
+	to hierogliphics to full on written language. Written language would take
+	some time to be fully institutionalized into the eduction system, 
+	making it standard for people to read and write. We would go on 
+	to develop instatanous oral, written, and abstact communication 
+	through the use of the phone, radio, email, and the internet respecitvely. 
+	Humans have a high capacity for abstarct reasoning, developing things
+	like philosophy and thought experiments which attempt to explain 
+	and formalize very abstract topics and answer very abstract questions, 
+	like what does it mean to be human, how should we live our lives etc. 
+	Humans have many different cultures and societies depending on the region, 
+	a commonality amongst us is our aptitude for language and religion, all
+	of which are developed irrespective of other populations. One could also 
+	argue that scientific inquiry is developed independantly, though the results
+	from this vary. Certain relgious cultures like Islam opted out of scientific
+	development due mainly to their philosophy, they saw it easier to understand 
+	the relgious texts as opposed to the natural world as if the natural world
+	was made by God, it would serve them better to research God and relgion 
+	than to develop science. Christain soceity was the opposite, they saw
+	the natural world aswell as being a product of God, though they believed 
+	that studying the natural world would essentially bring them closer to 
+	God. This philisophical difference allowed for Christain society to lap 
+	Islamic society in progress despite Islamic society being perfectly capable of it.
+	Another interesting note on philosophy is something called the axial age, 
+	the greatest philosophers in human kind came about during this time, Islam, Greek philsophy,
+	Christianity, etc. This age also dealt with the largest populations of people at the 
+	time, this proximity beget violence and crime, so one could argue that these
+	tough times naturally spurred the greatest philosophers and religions to
+	arise in order to teach people how to live. One of the most important philsophies
+	developed is the socratic principle, which was later adopted by Aristotle and
+	formalized into the scientific method which is still used today to make 
+	discoveries. Humans also have a keen creative ability. We take what we learn
+	or what we know and then apply it in fields like engineering, and to 
+	be more abstract, we get subjective personal ideas and extend them to some
+	sensory aspect, be it visual with painting or illustrative works, or auditoral
+	with music, etc. This is called art. Both of these seemingly different 
+	aspects of humanity emerge from asbtraction. Humans have also developed more
+	strucutred and representive languages usually in a mathematical scope. we
+	developed number systems, algebraic systems, logical systems and so on. 
+	This allows new math to be created which can describe the natural world 
+	or can be something completely unique and abstract. The foundations of math
+	are shacky but aswell is mostly comprised of abstaction. Humans have 
+	complicated emotional psychological aspects. We form long lasting relationships
+	and often base our existance and even our societies and culutures off of them. 
+	It is taboo to commit incest and morally wrong to kill ones family or friends. 
+	We also mourn the dead, we have a near complete understanding of death and
+	its implications, the only thing that alludes us is what absolutely happens 
+	after death. Human behavior is vast but is largely dependant on what is
+	socially and morally acceptable, with these depending on ethics, which in turn, 
+	in a way, depends on what we know to be true. Humans have interesting 
+	functions that are unique to us, we can dream, visualize things very clearly, 
+	and can empathize completely with people. Humans have a long history of tool
+	use, often evolving these tools as competition arrises. Human society is
+	often based on the principles of there being a finite amount of resources in 
+	the earth and thus needs to be managed effectively, this management is described as
+	economics, the nature of the economy is dependant on the host country, but
+	most adopt a free market capatalistic economy. Capatilism is essentially based on 
+	competition and who ever provides the highest quality good is who succeeds in the end.
+	This success is quantified with currency, the nature of this currency can vary. 
+	It should be noted that much of economics is not fully understood at a fundemetal level, 
+	it is not like deterministic physics, it is extremely difficult to predict the economy, 
+	as it is a system comprising of up to billions of humans. One thing is certain however, 
+	that generally, poeple, markets, and firms often lead to a effecient allocation of resources, 
+	this phenomena is dubbed the "invisible hand principle" Humans mainly act in accordance 
+	with the principles of economics, we continously strive to make things effecient 
+	and easier. Human psychology itself is quite complex, we dont fully understand what
+	causes people to become depressed or motivated or to fall in love. Love
+	is highly culturally dependant. It evolved from logic based, where people 
+	would plan marriages in exchange to get closer to a family or to have free
+	labor for farms, to romance based as life became easier and was promoted by 
+	royals, and then to sex and attraction based as capatilism created an entire market
+	for looks and marriage and dating and all this other stuff. Gladiators which were
+	romans fighting in an arena were highly sought after as mates, rich women
+	would often pay to have gladiators sleep with them, they were culturally speaking
+	the most attractive to women, they could essentially get any girl they want
+	and this was based on title and reputation alone. A prime example of which
+	was this one gladiator who ran away with a noble woman to egypt, he was hideous, 
+	countless battles in the arena left his faced deformed, he was an ugly bastard,
+	still his reputation as a gladiator landed him a high ranking society lady, 
+	this illustrates just how much culture impacts love. Interestingly enough
+	humanity seems to be approaching a pattern of unity, over time we have become
+	less pregidous and racist, entire philsophies and ideologies have developed just
+	on the idea of inclusivity, such as the woke and social justice movements. These
+	movements are taking over Western civilization and promote wide spread immigration
+	and anti racism and tolerance to a significant extent, going as far 
+	as to demonize the majority inhabitants of a nation. The antithesis to this
+	is nationalism and fascism, there have been countries in the past that demonstrated 
+	this, Nazi Germany believed in an aryan race and looked down upon cross breeding
+	and the tolerance and other races and the like. Both social justice/wokeness and 
+	extreme right wing fascism are on opposing ends of the spectrum. Both
+	kind of influence each other, modern alt right movements exist only in response 
+	to wokeness, and wokeness exists only as an anti thesis to the horrors of WW2 
+	and the oppression of minority races in their host nation. As humanity moves 
+	to more unified state it constantly switches between crazed idealogies as
+	it attempts to reach some sort of balance. These exhagerated responses 
+	are probably due to our fundementally tribal nature, we naturally
+	mate with those of the same race and culture, we naturally surround ourselves
+	and work with those who look and act most like us, again racially and culturally. 
+	There is a commonality of prejudice within every region, far eastern nations
+	exhibit racism, western cultures would war with eachother, Africans would aswell
+	war with eachother, Westerners obviously would oppress anyone that isnt like them, 
+	even others of the same race but differing cultures like the Irish. The basic
+	commonality is that we act favorably to those who are like us, this is due to our 
+	tribal nature, however, humans also have a nature to be effecient and thus 
+	seek the most effecient method and outcome, ultimately this is globalization
+	and ultra interconnectivity, this thesis and antithesis so to speak create 
+	psychological conflicts within humans, which explains things like slavery, apparthide,
+	Nazism, wokeism, and bassicly anything that exists at one end of the spectrum. 
+	All in all humans are highly structured animals, we seek stucture in the way 
+	we think, the way we live our lives, our value system, etc. This structure ultimately
+	leads to some sort of globalization, though humans also have tribalistic and greedy
+	aspects to them. I will also note the social dependancy of humans and the negative effects of certain innovations, 
+	the most obvious of which being the internet. For the majority of human existance we
+	lived in tight knit groups, families, villages, and such. The development of the internet connected 
+	us but ironically enough divided us to a great extent. Most people have troubles 
+	finding love and must deal with extreme competition and cultural descent that 
+	is present within dating apps, these apps are monetized purposely to get 
+	as many people in whats called a hookup culture. It should be noted that 
+	free market capatlism is completely ineffective at providing social services. 
+	The insanity and greed of the free market has turned the dating structure or just
+	social structure into a dis tasteful comptetition. Loneliness is an epidemic 
+	currently. Work culture is another interesting part of human society, 
+	many people either adopt a neet type attitude such as the Chinese youth, where
+	as some adopt an extreme grind culture attitude, where they do as much as they 
+	can to achieve success and get ahead in life. Another effect of the internet
+	is political discourse, politics is more polarized than it has been in a very long time
+	a big part of that is due to the internet. Modern political discourse is essentially
+	just making fun of the opposing side with ridicule and memes now, in the past
+	it was for the most part intellectual debate.
+
+	Extra: there is proactive aggression and reactive aggression. Humans have very little
+ 	reactive aggression, our proactive aggression is similar to chimps, all animals start battles
+ 	proactively if they have the advantage. Lack of reactive aggression is uniquely human, domestication 
+	is minimizing reactive aggression. It takes but a few generations to change characteristics of animals 
+	through domestication. One theory is that any coalition that can kill alphas would eventually be able to
+ 	impose values, like rules, ethics almost. Sexual intimidation is a long term aspect within several social
+ 	species. Males often have advantages over females, this apparently calls back to coalitions. A lot of great 
+	men do bad things apparently. 
