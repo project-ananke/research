@@ -1,0 +1,10 @@
+- Humans have bacteria microbiomes that help us in almost a symbiotic relationship.
+- Example: We offer shelter in exchange for them to help us, as in the case of gut bacteria.
+	- Help us digest food—we tell our immune system to not attack them. 
+	- Play large role in human condition, as 95% of our serotonin is produced in the gut, influence our happiness.
+	- Influence our appetites by consuming certain types of food.
+- Don't have a nucleus, instead having organelles. 
+- Produce asexually through **nuclear fission** (essentially splitting apart).
+- Some can create their own food, analogous to plants. 
+- Carry extra genetic material in a **plasmid**—can be shared with other bacteria through **conjugation**.
+	- If plasmid were to carry genes with anti-bacterial resistance, it would make other bacteria resistant to antibiotics (think MRSA).
