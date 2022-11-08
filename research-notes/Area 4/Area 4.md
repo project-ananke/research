@@ -88,8 +88,56 @@ up very little space. The average of guesses between experts on some problem is 
 
 - One way to think about emergence is like layers being stacked on eachother. Each layer coincides with increased complexcity and new phenomena. 
 
+## Emergence SC Pepper: 
 
+ - There seems to be 3 different ways to describe change from the perspective of metaphysical philosphy, one of them being Emergence. 
 
+ - I will note that Emergence itself originated from philosophy and later found scientific grounding. 
+
+ - The first type is described as chance occurence: an occurence in which no cosmic law can be stated. Or, cosmic irregularity. This is essentially just probabilistic unlikelihood. 
+
+ - The second type is defined as a "shift" basically, one characteristic replaces another, this is typically called invariable succession. 
+
+ - The third and final type is called emergenece; emergence is simply cummulitive change, or characteristic supervening other characteristics, with that characteristic being adequate to its level. All this really means is that emergence is the phenomena of different properties emerging new ones as the system grows. 
+
+-  I will further note that this paper was written in 1926, I am noting this as philosphy preceded science in this case, this should not go unnoticed. 
+
+- The theory of emergence as described by philosophy involved three propositions
+	1. There are levels of existence defined by levels of *integration*. In other words, a system can be defined by different levels of complexcity and observation. 
+
+	 2. Any observed level has individual and unique marks. Basically every level has unique characteristics. 
+
+	 3. It is impossible to deduce the marks of higher levels from observations of lower levels, the same may or may not be true of deducing marks of lower levels from higher levels. All this means is that the system cant be predicted by modeling its constintuent parts. 
+
+	 - I encourage us to take some time to contemplate this. To contemplate that abstract reasoning has predicted one of the most important aspects of science, and to further contemplate the length of time it took for science to adopt the concept of emergence. 
+
+	 - *integration*: consolidating constintuent parts into a whole. 
+
+- The theory of emergence has some dilemmas, 2 to be exact from this source 
+
+	1. Either that emergent change is not cumulative or it is *epiphenomenal*. 
+
+	2. Either that emergent change is predictable just like any physical change or it is *epiphenomenal*. 
+
+	- *Epiphenomenal*: A secondary phenomena caused by another; typically accomponies another phenomena. This comes from *epiphenomenalism*
+
+	- *Epiphenomenalism*: There are different definitions I found based on the subject it is used in. I will describe it as abstract phenomena emerging from physical events, with these emergent phenomena not affecting the physical. 
+
+- The text describes something called emergent evolutionists, perhaps they are people that study this. 
+
+- The text takes a more abstract path from here. Something interesting it talks about is that functions of certain variables at a certain level can only be described by one corresponding level function. I suppose a way to think about this is that emergence only allows you to describe things unique to that level with some functon that is also unique to that level. In other words, you cannot predict the molecular behavior of freezing dropping water from the observations of a snowflake nor the observations of the atoms themselves. 
+
+- Emergent law must be described by emergent variables, these variables do ***not*** have to be described by an interrelational function with lower variables. Let us note that most examples of emergence are epiphenomenal 
+
+- The text speaks on the cosmic vs the human perspective. That nothing is cosmically deducable only humanly deducable. It says that all events occur, they do not necassarily depend on eachother, that it is humans that describe these things and attribute events to laws and rules and such. 
+
+- I will take an interesting excerpt from the text which I believe is interesing: "There is a loose sense in whieh qualities and events are predictable. Thus by a process of interpolation we can and have predicted the properties of missing elements in the periodic table. And by a process of analogy we predict the states of consciousness of other people and of animal"
+
+- Most systems in physics are derived from more fundemental theories and are thus predictable. Emergence bassically says that is not possible. This basically the significance of epiphenomenalism within science. 
+
+- One interesting question I found in the book is this: "Are present electrons functions of future electrons or past electrons?" I think perhaps not, from what I recall, the schrodinger equation is not dependant on information about the past electrons, its boundary conditions are just the bounds of the system itself. 
+
+- This concludes my notes on the text. 
 
 ## referances: 
 
