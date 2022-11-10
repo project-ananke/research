@@ -139,6 +139,26 @@ up very little space. The average of guesses between experts on some problem is 
 
 - This concludes my notes on the text. 
 
+## The Concept of Emergence P.E. MEEHL, WILFRED SELLARS: 
+ 
+ - Interestingly enough, this paper builds off the SC Pepper paper, it more so dives deeper into it. 
+
+ - So far he just seems to be restating what Pepper has said, with an emphasis on epiphenomenalism. 
+
+ - Imagine two arrows both pointing to the right, think that node 0 implies 1 which implies 2. Then imagine node 2 having an arrow which points to H, this basic image is a visualization of epiphenomenalism. 
+
+ - The text basically speaks more on the uniqueness of H, and how it is has characteristics not present in non-H situations. 
+
+ - I will note the existence of one prominant figure within emergence, he is often refered to as "Alexander."
+
+ - node 0 to 1 to 2 are shifts, node 1 to H is a supervenience. 
+
+ - The paper speaks on the reducibility of some things, it questions whether it is accurate to constantly count out reducibility, biology to organic chemistry is an example given. 
+
+ - The paper makes the claim that the theory of emergence has more application in science than in philosophy. 
+
+ - The rest of the paper speaks on the functional relationship of emergent properties with their  variables, varying at different levels, and so on. We can later reference it if we so desire. 
+
 ## referances: 
 
 - Sabine Hossenfelder - What is emergence? What does "emergent" mean? 
