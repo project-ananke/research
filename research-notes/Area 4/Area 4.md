@@ -203,6 +203,32 @@ up very little space. The average of guesses between experts on some problem is 
 
  - This concludes the notes taken on the text. It would do us some good to further investigate the list located above. 
 
+## The Emergence of Thought -- Donald Davidson: 
+
+  - The text describes emergence almost as a type of occurence that is dependant on time. It notes that fundemental physics *existed* first, followed *much much* later by phemonena such as conciousness, life, etc. 
+
+  - There is a difference between a belief and a judgment; a belief involves recognizing what is fact, recognizing what perception is itself, and recognizing that you may be wrong. A judgment, however, involves logical and rational thinking. That being said, a dog may have a belief but does not have the ability of judgement. 
+
+  - An animal may recognize lets say a cat, but it cannot comprehend the concept of a cat. 
+
+  - Beliefs themselves musnt contradict eachother, lest they form irrationality, the inverse is also true. 
+	   
+	   - I note this as it is important to understand that you need to have a properly defined set of concepts in order to grasp new ones. The concepts and beliefs and values then cause intentions. These intentions can flesh themselves out as requests; one may want an apple and may say as such, but all this is them *wishing* for something abstract to come true. I will note that these intentions have their own reason, with these reason emerging from one's beliefs and values. 
+
+	   - This being an emergent system essentially describes actions as being derived from what we think would grant us the most value. This is describes within *Decision Theory* a theory that can't really be tested by answers to our intuitions. 
+
+  - Beliefs, desires, and all this stuff are all interdependant, the text articutlates this best: 
+
+	    "There are, as I have argued, no beliefs without many related beliefs, no beliefs without desires, no desires without beliefs, no intentions without both beliefs and desires. Conceptually, actions themselves belong to the realm of the mental, for a piece of behavior counts as an action only if there is some description under which it is intentional, and so can be explained as done for a reason." 
+
+  - Most of the consequences, even "unintentional" ones, are still the result of intention. One may mistakingly throw a ball to the wrong target, however, under the emergent description of action, this action emerged from things like thought, intention, beliefs, reason, etc. So fundementally it was completely by chance; I suppose you can then say that mistakes and consequences are not *strongly emergent*. 
+
+  - One should note the difficulity of describing complex behaviors given the emergence of thought. A prime example is language, as in the case with the disgusting and horrendous experiments of teaching monkeys sign language, you cannot actually describe what they are saying without acknowleding context. They simply speak, it has no meaning. However, when a human speaks, it implicitely contains the thoughts and the intentions of the speaker. The text states that a problem within developmental psychology is the inbetween stuff, that is, if you were to half a half developed mind as with infants, there is not really a way to describe specifically the underlying conceptual mechanics of what is actually going on within their minds. What the text is actually trying to say with its remarks on the lack of the descriptive power within language doesnt make a whole lot of sense to be if I am being honest. 
+
+  - There is something described as *triangulation* or some three way interaction. It essentially describes the seemingly complex behavior of animals. One may see something like a school of fish or a flock of birds and attribute it to cognitive thinking and or language. Or perhaps one may see the example of an African bird, of which I dont know the species, that would colloberate with hunter to extract honey; the dynamic is this: bird finds honey, bird cannot extract said honey, hunter know the patter of the bird, hunter seek out the bird, hunter extracts the honey and they both share. This seems quite like intelligent behavior but it is not. There is no complex thought going on within the minds of these animals. It can all be attributed to the learned reaction of the relationship with itself, some object, and the enviroment. Or so I read from the text atleast. 
+
+  - After this the text just talks about some of the structure of language and descriptions in general. When we describe something, we often describe it in terms of values and relative comparisons. Within more abstract things, they are compared with language. I suppose this is necassary to understand as language allows us to further formulate thoughts, language is absolutely essential to the emergence of thought. 
+
 ## referances: 
 
 - Sabine Hossenfelder - What is emergence? What does "emergent" mean? 
