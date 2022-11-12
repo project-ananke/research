@@ -159,6 +159,50 @@ up very little space. The average of guesses between experts on some problem is 
 
  - The rest of the paper speaks on the functional relationship of emergent properties with their  variables, varying at different levels, and so on. We can later reference it if we so desire. 
 
+## Strong and Weak Emergence -- David J. Chalmers:
+ 
+  -  The concept of emergence has two descriptions as layed out by philosophers, that being strong emergence and weak emergence. 
+
+  - You may say that something is strongly emergent with respect to a lower level phenomenon if that strongly emergent property is not deducible from the the lower level phenomenon. 
+
+  - You may say that one high level phenomenon is weakly emergent with respect to a lower level phenomena if that emergent pheomenon is deducible and directly caused by the lower level phenomena. 
+
+  - *Cellular Automata* are good examples of weak emergence; they can be deduced from the basic rules albeit they must also be calculated.
+
+	    Cellular Automata : 2 or 3 dimensional cells that interact with eachother based off computational rules that are established by the programmer. 
+
+  - The consequence of strong emergence is an entierely new set of fundemental laws of physics. 
+
+  - I will note that strongly emergent phenomena has yet to be discovered. 
+
+  - The paper argues that conciousness is a strongly emergent phenomena, I am note entirely sure whether this is true or not. 
+
+  - I will quote the arguments for the above proclamation here: 
+
+	     "First, it seems that a colourblind scientist given complete physical knowledge about brains could nevertheless not deduce what it is like to have a conscious experience of red. Secondly, it seems logically coherent in principle that there could be a world physically identical to this one, but lacking consciousness entirely, or containing conscious experiences different from our own."
+
+  - Strongly emergent phenomena can still be correlated to a physcical state. The example the text gives is that if you were to replicate the brain you would also replicate the conciousness. 
+
+  - Strongly emergent phenomena can be thought of as being emergent and dependant on a lower level, whilst also not being deducible by it. 
+
+  - I will note the existance of something called configuration laws, which connect configurations to consequences, it was developed by McLaughlin (1993). 
+
+  - The text references quantum mechanics as having some strange emergent properties. I would rather just note them than take note *of them* as I dont have a proper understanding of quantum mechanics yet. 
+
+  - I will note strong downward causation which basically states that high level phenomena cant be deduced when given initial conditions and laws. Of course, weak downard causation is the exact opposite. 
+
+ - The text notes some interesting examples of weak emergence, I will list them below:
+
+	    (A) The game of Life: high-level patterns and structure emerge from simple low-level rules. 
+  
+	    (B) Connectionist networks: high-level ‘cognitive’ behaviour emerges from simple interactions between simple threshold logic units. 
+ 
+	    (C) The operating system (Hofstadter 1977): the fact that overloading occurs just around when there are thirty-five users on the system seems to be an emergent property of the system. 
+ 
+	    (D) Evolution: intelligence and many other interesting properties emerge over the course of evolution by genetic recombination, mutation, and natural selection.
+
+ - This concludes the notes taken on the text. It would do us some good to further investigate the list located above. 
+
 ## referances: 
 
 - Sabine Hossenfelder - What is emergence? What does "emergent" mean? 
