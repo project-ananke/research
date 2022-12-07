@@ -1,0 +1,25 @@
+We seek theories of intelligence and measurements of intelligence, as well as counterarguments to these measurements. 
+
+## THEORIES
+- [[Two-Factor Theory]]
+- [[Gardner's theory of multiple intelligences]]
+- [[Triarchic theory of intelligence]]
+- [[Spearman's general intelligence]]
+- [[Thurstone's primary mental abilities]]
+
+## MEASUREMENTS
+- [[Emotional intelligence]]
+- [[Fluid vs. crystalized intelligence]]
+- [[Binet-Simon scale]] 
+- [[Stanford-Binet intelligence scale]] 
+- WISC 
+- WIAS 
+- The Flynn effect
+- Aptitude vs achievement tests 
+
+## COUNTERARGUMENTS
+- Reliability and construct validity
+- Cultural specifity
+- Social and environmental factors
+- Stereotype threat 
+- Self-fulfilling prophecy

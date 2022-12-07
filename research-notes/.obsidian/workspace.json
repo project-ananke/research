@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8448d3fc91eebab4",
+        "id": "a60d0733b0cd5ce7",
         "type": "tabs",
         "children": [
           {
-            "id": "407db11a6928702f",
+            "id": "e5e806eb68585e0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Roadmap.md",
+                "file": "Area 2/_Area 2 MOC.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Roadmap.md",
+                "file": "Area 2/_Area 2 MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Roadmap.md",
+                "file": "Area 2/_Area 2 MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,31 +125,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Roadmap.md"
+                "file": "Area 2/_Area 2 MOC.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 254.5
+    "width": 378.5
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "407db11a6928702f",
+  "active": "e5e806eb68585e0c",
   "lastOpenFiles": [
-    "Project Roadmap.md",
-    "Intro Investigations.md",
-    "Initial Study.md",
-    "Area 1/Objectives.md",
-    "Area 2/Objectives.md",
-    "Area 1/Temp.md",
-    "Area 1/Level 1.md",
-    "Area 1/Level 0/Yeast.md",
-    "Area 1/Level 0/Bacteria.md",
-    "Area 1/Level 0/Virus.md"
+    "Area 2/Measurements/Stanford-Binet intelligence scale.md",
+    "Area 2/_Area 2 MOC.md",
+    "Area 2/Measurements/Binet-Simon scale.md",
+    "Area 2/Measurements/Fluid vs. crystalized intelligence.md",
+    "Area 2/Measurements/Emotional intelligence.md",
+    "Area 2/Theories/Thurstone's primary mental abilities.md",
+    "Area 2/Theories/Spearman's general intelligence.md",
+    "Area 2/Theories/Triarchic theory of intelligence.md",
+    "Area 2/Theories/Gardner's theory of multiple intelligences.md",
+    "Area 2/Theories/Two-Factor Theory.md"
   ]
 }
