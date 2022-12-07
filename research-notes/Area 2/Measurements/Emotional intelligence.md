@@ -1,4 +1,5 @@
 - Ability to understand and manage own emotions, recognize and influence emotions around you
+- The emotional quotient: EQ
 - Coined in 1990 by John Mayer and Peter Salovey, popularized by psychologist Daniel Goleman
 
 # 4 components of emotional intelligence

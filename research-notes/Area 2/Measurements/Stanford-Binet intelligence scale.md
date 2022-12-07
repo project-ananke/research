@@ -1,4 +1,4 @@
-- Revised from the [[Binet-Simon scale]]
+- Revised from the [Binet-Simon scale](Binet-Simon%20scale.md)
 - Now on 5th edition
 - Cognitive ability and intelligence test to diagnose developmental or intellectual deficiencies in young children
 - Verbal and nonverbal subtests
