@@ -20,4 +20,4 @@
 
 - Toward a triarchic theory of human intelligence -- Robert J. Sternberg 
 
-- Crystallized and fluid intelligence are predicted by microstructure of specific white-matter tracts --  Daylín Góngora
+- Crystallized and fluid intelligence are predicted by microstructure of specific white-matter tracts --  Daylín Góngora (11 citations -- Mexican moment)
