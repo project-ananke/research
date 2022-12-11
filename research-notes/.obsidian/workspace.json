@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8448d3fc91eebab4",
+        "id": "574565fe3f4f3b5b",
         "type": "tabs",
         "children": [
           {
-            "id": "407db11a6928702f",
+            "id": "fa54bfc1a3da299d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project Roadmap.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "specificity",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Roadmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,32 +118,26 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Project Roadmap.md"
-              }
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 254.5
+    "width": 378.5
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "407db11a6928702f",
+  "active": "fa54bfc1a3da299d",
   "lastOpenFiles": [
-    "Project Roadmap.md",
-    "Intro Investigations.md",
-    "Initial Study.md",
-    "Area 1/Objectives.md",
-    "Area 2/Objectives.md",
-    "Area 1/Temp.md",
-    "Area 1/Level 1.md",
-    "Area 1/Level 0/Yeast.md",
-    "Area 1/Level 0/Bacteria.md",
-    "Area 1/Level 0/Virus.md"
+    "Area 2/_Area 2 MOC.md",
+    "consistant-report.md",
+    "Area 2/Counterarguments/Cultural specificity.md",
+    "Area 2/Measurements/Emotional intelligence.md",
+    "Area 2/Counterarguments/Self-fulfilling prophecy.md",
+    "Area 2/Counterarguments/Stereotype boost.md",
+    "Area 2/Counterarguments/Stereotype threat.md",
+    "Area 2/Counterarguments/Social and environmental factors.md",
+    "Area 2/Counterarguments/Reliability and construct validity.md",
+    "Area 2/Measurements/Aptitude vs. achievement tests.md"
   ]
 }

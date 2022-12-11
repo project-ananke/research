@@ -1,0 +1,3 @@
+- Wechsler Adult Intelligence Scale
+- IQ tet to measure intelligence and cognitive ability in older folk.
+- Younger folk refer to [WISC](WISC.md)

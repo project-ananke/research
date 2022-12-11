@@ -6,8 +6,6 @@
 - Motivators (good crap like recognition, personal growth, etc.) vs. hygiene factors (bad crap like salary, working conditions, etc.).
 	- Motivators encourage job satisfaction—lack of hygiene factors also encourage job satisfaction. 
 - One of the most used theoretical frameworks in job satisfaction research.
-
-
 ---
 # References
 https://en.wikipedia.org/wiki/Two-factor_theory

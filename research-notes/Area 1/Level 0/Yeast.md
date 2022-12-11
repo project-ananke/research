@@ -1,7 +1,7 @@
 - Commonly found fungus. 
 - Can exhibit multicellular characteristics by forming strings of connected budding cells (**pseudohyphae**). 
 - Reproduce asexually through mitosis. 
-- Gain energy through chemical compounds such as sucros, fructos, etc. 
+- Gain energy through chemical compounds such as sucrose, fructose, etc. 
 	- Can be used to generate electricity. 
 - Can form communities where they can interact with their environment to further optimize the functionality of the yeast. 
 - Can interact with other cells through the use of peptides and chemical compounds, forming essentially a type of language.
