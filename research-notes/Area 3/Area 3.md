@@ -124,7 +124,119 @@
 	
 		A detailed examination of three levels of neural analysis was employed in this review: primary, sub-regions and particular structures within sub-regions. The primary neural region analysis divided the brain into eight large neural regions (i.e., frontal cortex, parietal cortex, temporal cortex, occipital cortex, cingulate cortex, insular cortex, cerebellum, and subcortical structures) most frequently cited in the literature. Six of the eight intelligences were most associated with the frontal cortex, while the other two intelligences revealed the temporal cortex as most dominant (see Table 12). The parietal and cingulate cortices were the next most frequently associated with the intelligences. Alternatively, the cerebellum and insular cortex were never ranked within the top three most associated neural regions for any of the eight intelligences.
 
+## The neural bases of key competencies of emotional intelligence
 
+- The suggested location for neural functionality of EI is the PFC. 
+
+- The way to meassure EI is through the Mayer-Salovey-Caruso Emotional Intelligence Test.
+
+- The study uses an interesting method, it analyzes brain injury to see where locations correspond to loss of functionality, it was found that the dorsolateral PFC is critical for EI. 
+
+- The ventromedial PFC is considered crucial to EI. It is said to help mediate knowledge. Damage to this area of the brain can cause things like social incomptenance and changes to mood and personality. 
+
+- The study states that there is suffecient evidence to suggest that disctinct neural substrates in the PFC are responsible for EI. 
+
+- damages to the diPFC causes harm to experential EI and the ability to process emotional information. 
+
+- I will include an important excerpt 
+
+		Importantly, we stress that our findings highlight only two essential brain structures underlying key competencies of EI. Because vmPFC and dlPFC are higher-order association areas, it is likely that broadly distributed neural systems, incorporating subcortical limbic structures, such as the amygdala, which mediates emotional processes, and closely associated regions, such as the insula, cingulate cortex, and parietal cortices, which influence emotionally related behaviors (4, 37, 57, 58), will play important roles in subcomponents of EI. Future studies will need to examine each of these regions and their connectivity.
+
+- I will also include an excerpt describing the statistical models used in the study for the sake of future use. 
+
+		Statistical Analysis. Behavioral data analysis was carried out using SPSS 11.0 (www.spss.com; SPSS), and alpha was set to P 0.05 (two-tailed) for all analyses. Data were tested for Gaussian distribution (Kolmogorov–Smirnov test) and variance homogeneity (Bartlett’s test). Unless otherwise specified, data were normally distributed, and assumptions for analyses of variance were not violated. The Experiential and Strategic EI scores of the experimental groups were z-transformed in relation to normal group’s performance. A mixed two-way 2 (EI) 2 (group) repeated measures analysis of variance (ANOVA) was applied with EI (Experiential versus Strategic) as a within-subject factor and Group (dlPFC versus vmPFC) as a between subject factor. Planned follow-up independent-samples t tests were applied to compare performances between the experimental groups.
+
+
+![[EI_A.png]]
+
+
+![[EI_B.png]]
+
+
+![[EI_C.png]]
+
+
+![[EI_EXPL.png]]
+
+
+![[EI_T1.png]]
+
+
+![[EI_T2.png]]
+
+
+
+## Crystallized and fluid intelligence are predicted by microstructure of specific white-matter tracts
+
+- The paper suggests that there is a correlation between white-matter microstructural properties and (e.g. fractional anisotropy FA) and cognitive information processing speed and thus general intelligence. 
+
+- I will note that multivariate analysis was used for certain studies. 
+
+- The paper mainly talks about the application of models within the study to describe the correlation between white matter and GI and FI. I will close off by noting that there was a correlation between FA and the four cognitive domains associated with GI and FI. 
+
+## The neuroscience of human intelligence differences 
+
+- This paper regards the study of "differential neuro science."
+
+- After reading the paper I can conclude that its contents mostly revolve around the investigation of different levels of intelligence based off genetic factors mainly, it speaks a bit on neuroscience but not in any substacial way, a lot of what is said regards to analysis of designing studies itself. 
+
+- For future referance I will note the success of the P-FIT model, which models how intelligence is distributed within the brain. 
+
+## Neural mechanisms of general fluid intelligence
+
+- Interestingly enough, the difference method (neuro not math) was used to analyze the relation between regions of the brain with g-factor. 
+
+- Lateral prefrontal and parietal regions may affect g-factor to a significant degree. 
+
+- The lateral PFC, dorsal anterior cingulate, and lateral posterior cerebellum are some noted regions. 
+
+- Ravens advanced progressive matrix was given whilst the subjects brains were scanned using fMRI. This allowed them to find locations which were significant. 
+
+
+![[FI_1.png]]
+
+
+![[FI_2.png]]
+
+
+![[FI_3.png]]
+
+
+![[FI_T1.png]]
+
+- I will note that lure trials within the context of the paper are non-target trials. 
+
+- As one practices and grows proffeciency with a skill, there is decreased activity in the lateral PFC, ACC (anterior cingulate cortex), and cerebellum 
+
+- During the tests, these regions expierenced high activity during gF associated activities, there are several different explanations for this, one is that it was activated temporarily by the participants. 
+
+- An important note is that *the most significant regions* were that in which gray matter was in high variability due to heredity. Notably, the lateral PFC. Heredity is not the end all be all contribution to this. 
+
+- The paper mentions that over the course of human evolution, the size of our PFC increased in size, and that ours now is about twice as big as chimps. 
+
+
+
+## Cultural and linguistic effects on neural bases of ‘Theory of Mind’ in American and Japanese children
+
+- The theory of mind is essentially our ability to predict others behaviors based off their intentions. 
+
+
+![[CE_1.png]]
+
+
+- The paper states that people within western civilization tend to attribute behavior to internal causes whereas people within eastern civilization tend to attribute it to external and contextual causes. 
+
+- The neural basis for ToM in general is the medial PFC, and the temporo-parietal junction. 
+
+- The mPFC and ACC were found to be activated irrespective of culture or language. 
+
+
+![[ToF_1.png]]
+
+
+![[ToF_2.png]]
+
+- The images themself sum up all the important information regarding the neuroscience. I will conclude by noting that excessive knowledge in neuroscience, psychology, and statistics will be vital moving forward. 
 
 
 
