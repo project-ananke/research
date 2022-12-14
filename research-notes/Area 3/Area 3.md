@@ -239,6 +239,25 @@
 - The images themself sum up all the important information regarding the neuroscience. I will conclude by noting that excessive knowledge in neuroscience, psychology, and statistics will be vital moving forward. 
 
 
+## The Social Brain: Neural Basis of Social Knowledge
+
+- Social cognition is the collective psychological processes that allow humans to interpret whats going on in someone else's head. 
+
+- The paper notes that other animals such as primates exhibit complicated social behavior, though of course, not to our level. 
+
+- An interesting argument is that animals that show behavior in which they decieve others could only be possible if they had some understanding of what the other animal knew, and thus they showcase social cognition and ToM. 
+
+- I will note that it is not defintively known as to whether chimps can pass the social cognition test. 
+
+- Episodic memory is a key component in social knowledge, as it allows for past expierences to be processed as information such that we may use it to adjust our behaviors. 
+
+- An interesting component is that of future episodic planning, or basically just planning, this was discussed further in Area 1. 
+
+- A complicated strucutre is that of self knowledge, almost like metacognition 
+
+
+
+
 
 
 ## Sources:
