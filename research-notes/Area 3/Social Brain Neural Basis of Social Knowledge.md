@@ -39,7 +39,7 @@
 
 - A subcortical route through the superior colliculus is thought to contribute to visual processing. 
 
-![[SK_1.png]]
+![](_attachments/SK_1.png)
 
 - Damage to the amygdala results in impairment in the ability to recognize faces. 
 

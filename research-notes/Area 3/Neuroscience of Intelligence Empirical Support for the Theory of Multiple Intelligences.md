@@ -26,52 +26,52 @@
 
 - Intraperson intelligence had the FC, PFC, dorsomedial PFC, and lateral PFC. Other notable regions were the cingulate cortex, anterior cingulate cortex, medial temporal lobe, amygdala, anterior temporal cortex, basal ganglia, and brain stem. 
 
- ![[MI_INTER-1.png]]
+ ![](_attachments/MI_INTER-1.png)
 
-![[MI_INTER-2.png]]
+![](_attachments/MI_INTER-2.png)
 
 - Visual-spacial had the FC, PFC, premotor cortex, primary motor cortex, dorsolateral PC, partial cortex, parietal cortex, intraparietal sulcus, superior parietal lobule, and the precuneus. Other notable regions were the medial temporal lobe, hippocampus, and the occipital cortex. 
 
-![[MI_VS-1.png]]
+![](_attachments/MI_VS-1.png)
 
-![[MI_VS-2.png]]
+![](_attachments/MI_VS-2.png)
 
 
 - Naturalist had the temporal cortex, anterior temporal sulcus, and amygdala. The brain stem and basal ganglia were also noted. 
 
-![[MI_NTRL.png]]
+![](_attachments/MI_NTRL.png)
 
  Musical had the FC, motor cortex, and pre motor cortex. The temporal cortex and superor temporal gyrus were also noted. Basal ganlgia and auditory cortex were also mentioned. 
 
-![[MI_MUSIC.png]]
+![](_attachments/MI_MUSIC.png)
 
 
 - Kinestetic had the FC, motor cortex, primary motor cortex, premotor cortex, parietal cortex, basal ganglia, thalamus, and the cerebellum. 
 
 
-![[MI_KNSTH.png]]
+![](_attachments/MI_KNSTH.png)
 
 
 - Linguistic had the temporal cortex, superior temporal gyrus, FC, inferior frontal gyrus, motor cortex, parietal cortex and the inferiro parietal lobule 
 
-![[MI_LNGST.png]]
+![](_attachments/MI_LNGST.png)
 
 
 - Logical-mathematical has the FC, PFC, inferior frontal gyrus, dorsolateral PFC, Brocas Area, parietal cortex, interparietal cortex, interparietal sulcus, angular gyrus, parietal lobule, and the precuneus. 
 
-![[MI_MATH-1.png]]
+![](_attachments/MI_MATH-1.png)
 
 
-![[MI_MATH-2.png]]
+![](_attachments/MI_MATH-2.png)
 
 
  General intelligence had the FC, parietal cortex, temporal cortex, cingulate cortex, occipital cortex, and cerebellum. I will add that the paper noted that general intelligence and logical-mathematical intelligence depended heavily on planning, complex reasoning, mental visualization, verbal comprehension, and judgement. The paper also had the PFC, inferior frontal gyrus, inferior parietal lobal, superior temporal gyrus, and anterior cingulat cortex. 
 
 
-![[MI_G-1.png]]
+![](_attachments/MI_G-1.png)
 
 
-![[MI_G-2.png]]
+![](_attachments/MI_G-2.png)
 
 
 - I will note that the paper organized these regions according to different levels on analysis and sorting them in accordance to the number of citations that each region revieved. 

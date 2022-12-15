@@ -18,16 +18,16 @@
 
 		Statistical Analysis. Behavioral data analysis was carried out using SPSS 11.0 (www.spss.com; SPSS), and alpha was set to P 0.05 (two-tailed) for all analyses. Data were tested for Gaussian distribution (Kolmogorov–Smirnov test) and variance homogeneity (Bartlett’s test). Unless otherwise specified, data were normally distributed, and assumptions for analyses of variance were not violated. The Experiential and Strategic EI scores of the experimental groups were z-transformed in relation to normal group’s performance. A mixed two-way 2 (EI) 2 (group) repeated measures analysis of variance (ANOVA) was applied with EI (Experiential versus Strategic) as a within-subject factor and Group (dlPFC versus vmPFC) as a between subject factor. Planned follow-up independent-samples t tests were applied to compare performances between the experimental groups.
 
-![[EI_A.png]]
+![](_attachments/EI_A.png)
 
-![[EI_B.png]]
-
-
-![[EI_C.png]]
+![](_attachments/EI_B.png)
 
 
-![[EI_EXPL.png]]
+![](_attachments/EI_C.png)
 
-![[EI_T1.png]]
 
-![[EI_T2.png]]
+![](_attachments/EI_EXPL.png)
+
+![](_attachments/EI_T1.png)
+
+![](_attachments/EI_T2.png)

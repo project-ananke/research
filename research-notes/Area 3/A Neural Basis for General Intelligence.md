@@ -17,6 +17,6 @@
 	- The first image is the neural activity, the second is statistical data taken from the study.  
 
 
-![[gscore_1.png]]
+![](_attachments/gscore_1.png)
 
-![[gscore_2.png]]
+![](_attachments/gscore_2.png)

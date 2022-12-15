@@ -7,15 +7,15 @@
 - Ravens advanced progressive matrix was given whilst the subjects brains were scanned using fMRI. This allowed them to find locations which were significant. 
 
 
-![[FI_1.png]] 
+![](_attachments/FI_1.png) 
 
-![[FI_2.png]]
-
-
-![[FI_3.png]]
+![](_attachments/FI_2.png)
 
 
-![[FI_T1.png]]
+![](_attachments/FI_3.png)
+
+
+![](_attachments/FI_T1.png)
 
 
 - I will note that lure trials within the context of the paper are non-target trials. 
