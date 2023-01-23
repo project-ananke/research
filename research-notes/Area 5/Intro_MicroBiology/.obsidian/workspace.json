@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "537ebc27cfb44422",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6a0a300a9644e4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6d0c4d0986f7ab6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduction to MicroBiology -- 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c4755c2377a6022d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Chemical Basis of Microbiology -- 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3faeb138ed3e6204",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Microbial Size and Microscopy -- 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7dadc4ab624f8bc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prokaryotes and Eukaryotes -- 4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e64145e928d400a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Microbial Growth and Cultivation -- 5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "efbe8d4901bb31cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "b88d88454046833d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c42b39d53bf2d349",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6a478eda5298c361",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "527a286f3ac6776f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "18636e050259768e",
+    "type": "split",
+    "children": [
+      {
+        "id": "19b7702f8ba6ad4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "538a11c3633703b9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Microbial Growth and Cultivation -- 5.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "99f8c77553d5ef02",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Microbial Growth and Cultivation -- 5.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e00313c6dbd5b81c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9386ab0cb598ddbd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Microbial Growth and Cultivation -- 5.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e64145e928d400a4",
+  "lastOpenFiles": [
+    "Prokaryotes and Eukaryotes -- 4.md",
+    "Microbial Size and Microscopy -- 3.md",
+    "The Chemical Basis of Microbiology -- 2.md",
+    "Introduction to MicroBiology -- 1.md",
+    "Images/microorg 2.png",
+    "Images/microorg 1.png"
+  ]
+}
