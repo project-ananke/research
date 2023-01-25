@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ab0d030f4269210d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Metabolism of Microorganisms -- 6.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Microbial Growth and Cultivation -- 5.md",
+                "file": "Metabolism of Microorganisms -- 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Microbial Growth and Cultivation -- 5.md",
+                "file": "Metabolism of Microorganisms -- 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Microbial Growth and Cultivation -- 5.md"
+                "file": "Metabolism of Microorganisms -- 6.md"
               }
             }
           }
@@ -195,8 +207,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e64145e928d400a4",
+  "active": "ab0d030f4269210d",
   "lastOpenFiles": [
+    "Microbial Growth and Cultivation -- 5.md",
     "Prokaryotes and Eukaryotes -- 4.md",
     "Microbial Size and Microscopy -- 3.md",
     "The Chemical Basis of Microbiology -- 2.md",
