@@ -78,9 +78,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c417c5f2a4e566d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DNA and Gene Expression -- 7.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f88b7756187f7299",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Microbial Genetics -- 8.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "59af0cff97d11f6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Control of Microorganisms -- 9.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -146,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Metabolism of Microorganisms -- 6.md",
+                "file": "Control of Microorganisms -- 9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Metabolism of Microorganisms -- 6.md",
+                "file": "Control of Microorganisms -- 9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Metabolism of Microorganisms -- 6.md"
+                "file": "Control of Microorganisms -- 9.md"
               }
             }
           }
@@ -207,8 +243,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ab0d030f4269210d",
+  "active": "59af0cff97d11f6e",
   "lastOpenFiles": [
+    "Microbial Genetics -- 8.md",
+    "DNA and Gene Expression -- 7.md",
+    "Metabolism of Microorganisms -- 6.md",
     "Microbial Growth and Cultivation -- 5.md",
     "Prokaryotes and Eukaryotes -- 4.md",
     "Microbial Size and Microscopy -- 3.md",

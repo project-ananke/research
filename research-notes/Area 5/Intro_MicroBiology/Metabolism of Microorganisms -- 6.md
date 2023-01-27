@@ -87,5 +87,32 @@
 
 - Polysaccharides are made up of glucose components and can also be broken down, but for cellulose (plant cell walls), it is pretty hard. Very few micros can actually break it down. 
 
-- 6.43 -- 78 
+-  Both proteins and fats can be broken down for energy, this is done through the process of deamination. 
+
+- Since fats are long chains of carbon molecules, they can be broken down to molecules that are intermediary for glycolysis. Two carbon molecules can be converted to acetyl CoA through beta oxidation, which is obviously necessary in the citric acid cycle. 
+
+- Certain reactions in metabolism can be reveresed in order to produce fats and lipids. 
+
+- The production of DNA and RNA require nitrogen bases, these can be produced through intermediary molecules within the citric acid cycle. 
+
+- The synthesis of carbohydrates occur only in photosynthetic pathways. 
+
+- Micros with pigments that absorb light are the ones that perform photosynthesis. 
+
+- There are 2 main reactions for photosythesis, energy-fixing reactions which require light, and carbon-fixing reactions which are light independant. 
+
+- For the light dependant reactions, pigments that absorb light get their energy and transfer it to electrons which then pass through the electron transport chain, this then drives a proton motive force. 
+
+- The proton motive force then provides the energy for chemiosmosis and drives ATP synthesis. Since the ATP production relies on light energy, it is called photphosphorylation. 
+
+- Electrons lost during energy fixing reactions are replenished by enzymes breaking down water for its electrons. 
+
+- Not all micros utilize water for the electron source. 
+
+- The synthesis of carbohydrates occur during carbon fixing, when Co2 is combined with a 5 carbon molecule called ribulose phosphate. The resulting 6 carbon molecule splits into 2- 3 carbon molecules, these are then transformed down a pathway into glucose. 
+
+- Many micros use the made glucose for cellular respiration. 
+
+- The economy of the microbial cytoplasm is very sophisticated, pathways can be used for breakdown or sythesis, intermediaries can be easily transferred, and this all results in effeciency and less enzymes used. **Idea: maybe simulate the effeciency in a chemical model?** 
+
 
