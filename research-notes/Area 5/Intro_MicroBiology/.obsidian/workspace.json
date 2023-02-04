@@ -114,9 +114,93 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bee425dcd4fe0d1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Major Groups of Bacteria -- 10.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5aee09a4e1f18f89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Fungi -- 11.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f7e77c3549aff26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Protozoa -- 12.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "20d5422fe3832ee1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Unicellular Algae -- 13.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "148a00a754248ecc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Viruses -- 14.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b8788eb6e95ba895",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Host-Parasite Relationship -- 15.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c015929a6eeb7af9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Host Resistance and the Immune System -- 16.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -182,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Control of Microorganisms -- 9.md",
+                "file": "Host Resistance and the Immune System -- 16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Control of Microorganisms -- 9.md",
+                "file": "Host Resistance and the Immune System -- 16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +306,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Control of Microorganisms -- 9.md"
+                "file": "Host Resistance and the Immune System -- 16.md"
               }
             }
           }
@@ -243,17 +327,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "59af0cff97d11f6e",
+  "active": "c015929a6eeb7af9",
   "lastOpenFiles": [
+    "The Host-Parasite Relationship -- 15.md",
+    "The Viruses -- 14.md",
+    "The Unicellular Algae -- 13.md",
+    "The Protozoa -- 12.md",
+    "The Fungi -- 11.md",
+    "The Major Groups of Bacteria -- 10.md",
+    "Control of Microorganisms -- 9.md",
     "Microbial Genetics -- 8.md",
     "DNA and Gene Expression -- 7.md",
-    "Metabolism of Microorganisms -- 6.md",
-    "Microbial Growth and Cultivation -- 5.md",
-    "Prokaryotes and Eukaryotes -- 4.md",
-    "Microbial Size and Microscopy -- 3.md",
-    "The Chemical Basis of Microbiology -- 2.md",
-    "Introduction to MicroBiology -- 1.md",
-    "Images/microorg 2.png",
-    "Images/microorg 1.png"
+    "Metabolism of Microorganisms -- 6.md"
   ]
 }
