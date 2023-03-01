@@ -107,8 +107,12 @@
             "id": "52181c57b8ea8ec7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Genetic Mutation Viruses.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -178,6 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Genetic Mutation Viruses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,6 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Genetic Mutation Viruses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +221,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Genetic Mutation Viruses.md"
+              }
             }
           }
         ]
@@ -237,11 +245,11 @@
   },
   "active": "52181c57b8ea8ec7",
   "lastOpenFiles": [
+    "Viruses.md",
     "Genetic Mutation Viruses.md",
     "Images/20.6.png",
     "Images/20.4.png",
     "Images",
-    "Viruses.md",
     "Proviruses.md",
     "Genetic Infection.md",
     "Genes Coding For Proteins Viruses.md",

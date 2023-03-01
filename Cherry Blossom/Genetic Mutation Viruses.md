@@ -27,6 +27,24 @@
 
 - Co-evolution can occur, in which deadly viruses can become less lethal such that both can continue to evolve along side eachother. The ultimate example of this is when the viruses becomes permanently itegrated into the genome of its host. 
 
+- The next enteries will cover Chapter 21, which is about emerging viruses. 
+
+- Travel and trade, and the introductio, 299 
+
+- The Nipah and Hendra viruses are both RNA viruses which jumped mutliple species, from fruit-eating bats to pigs then to humans. 
+
+- I will note that vectors are carriers of viruses to spread them, mosquitos are a good example. 
+
+- SARS coronsviruses developed from a strain of mutations that allowed for human-human infection, this jump is surprisingly difficuly for viruses to make. 
+
+- ***Note: Model should integrate mutation, recombination, and reassortment.*** 
+
+- Viruses can kill you by exposing your body to other pathogens, an example being damage to the respiratory epthelium exposing you to more illness. ***Idea: simulate multiple viruses, perhaps a higher form of coevolution can take place.*** 
+
+- You may have heard of H1N1, these refer to the combination of surface glycoproteins. Combination of H and N genes determine its name. H (haemagglutinin) N (neuraminidase)
+
+- 
+
 ## Referance 
 
 - Virology Principals and Applications by John Carter - Chapter 20 & 21 
