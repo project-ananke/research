@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Genetic Infection.md",
+                "file": "Spike Proteins.md",
                 "mode": "source",
                 "source": false
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Genetic Infection.md",
+                "file": "Spike Proteins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Genetic Infection.md",
+                "file": "Spike Proteins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Genetic Infection.md"
+                "file": "Spike Proteins.md"
               }
             }
           }
@@ -221,9 +221,14 @@
   "active": "a0c4e537d604923e",
   "lastOpenFiles": [
     "Viruses.md",
+    "Genes Coding For Proteins Viruses.md",
+    "Images/7.6.png",
+    "Images/7.5.png",
+    "Images/7.4.png",
+    "Images/7.1.png",
+    "Genetic Infection.md",
     "Main.md",
     "Genetic Mutation Viruses.md",
-    "Genes Coding For Proteins Viruses.md",
     "6.9.md",
     "Images/6.9.png",
     "Proviruses.md",
@@ -235,7 +240,6 @@
     "Images/20.6.png",
     "Spike Proteins.md",
     "Images",
-    "Genetic Infection.md",
     "Proteins Creating More Viruses.md"
   ]
 }

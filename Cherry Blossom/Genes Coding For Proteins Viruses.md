@@ -67,7 +67,37 @@
 
 - I will not the existance of heat shock genes and stress defense systems. 
 
-- Bacterial transcription and translation mechanism vary from that of eukaryotes, such as rho factors, sigma factors, Pribnow boxes, etc. ***Note: Investigate these later, I suspect they will be of moderate to great importance.*** 
+- Bacterial transcription and translation mechanism vary from that of eukaryotes, such as rho factors, sigma factors, Pribnow boxes, etc. ***Note: Investigate these later, I suspect they will be of moderate to great importance. (Section 6.8)*** 
+
+![[7.1.png]]
+
+- The above image shows all the different types of genome replication, I believe each arrow denotes an intermediary molecule changing the nucleic acids. 
+
+- The location of replication vary from genome, though I dont think it is an important detail. (Section 7.2)
+
+- For must DNA and some RNA genomes, a molecule of RNA or protein needs to act as a primer. Primers act as starting points for synthesis. 
+
+- Section 7.3.1 speaks on the different protein primers for RNA viruses, I dont think this is important to take notes on. 
+
+- Large genome DNA viruses encode their own enzyme polymerase, any virus in the cytoplasm needs to do the same. 
+
+- Replicase is the enzyme for RNA genome replication. 
+
+- Leading strand (short fragments that get stitched together, synthesized twice the rate of lagging strand). Lagging strand (synthesized continuously). Replication fork (fork structure in which unwinding and synthesis occurs). Ozakazi fragment (short sections of DNA formed in the synthesis of lagging strands, they allow for synthesis of both daughter strands). 
+
+![[7.4.png]]
+
+![[7.5.png]]
+
+- You can see above one replication process looks like a $\theta$, and the other looks like a $\sigma$. They are basically two modes of replication depending on the the replication fork. This is for double stranded RNA. This isnt an important detail. 
+
+- I will note the existance of conservative and semi conservative replication for viruses. ***Note: This might be important when dealing with mutations, might, look into it.*** 
+
+![[7.6.png]]
+
+- ssRNA replication occurs through the synthesis of a complementary strand, the strand then serves as a template for synthesis of new copies of the genome. 
+
+- Reverse transcription uses reverse trascriptase. ***Note: You can optionally investigate chapter 16 for retroviruses. I dont know how valuable that will be. Just something to think about.*** 
 
 
 ## Referance 
