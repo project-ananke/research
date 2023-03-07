@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5ab9b53f4cf3538a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a0c4e537d604923e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Viruses.md",
+                "file": "Genetic Infection.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,21 +90,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "52181c57b8ea8ec7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Genetic Mutation Viruses.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Genetic Mutation Viruses.md",
+                "file": "Genetic Infection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Genetic Mutation Viruses.md",
+                "file": "Genetic Infection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Genetic Mutation Viruses.md"
+                "file": "Genetic Infection.md"
               }
             }
           }
@@ -243,19 +218,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "52181c57b8ea8ec7",
+  "active": "a0c4e537d604923e",
   "lastOpenFiles": [
     "Viruses.md",
-    "Genetic Mutation Viruses.md",
-    "Images/20.6.png",
-    "Images/20.4.png",
-    "Images",
-    "Proviruses.md",
-    "Genetic Infection.md",
-    "Genes Coding For Proteins Viruses.md",
     "Main.md",
-    "Proteins Creating More Viruses.md",
+    "Genetic Mutation Viruses.md",
+    "Genes Coding For Proteins Viruses.md",
+    "6.9.md",
+    "Images/6.9.png",
+    "Proviruses.md",
+    "Viral Envelopes.md",
+    "Images/6.1.png",
+    "Images/6.6.png",
+    "Images/6.8.png",
+    "Images/20.4.png",
+    "Images/20.6.png",
     "Spike Proteins.md",
-    "Viral Envelopes.md"
+    "Images",
+    "Genetic Infection.md",
+    "Proteins Creating More Viruses.md"
   ]
 }
