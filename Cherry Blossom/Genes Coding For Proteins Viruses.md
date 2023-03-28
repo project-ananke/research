@@ -47,7 +47,7 @@
 
 - Some viruses have split genes. 
 
-- Typically, most eukaryotic mRNA contain one ORF, and are monocistronic. 
+- Typically, most eukaryotic mRNA contain one ORF (open reading frame), and are monocistronic. 
 
 - AUG is the typical start codon, some viruses use ACG though. 
 
@@ -91,7 +91,7 @@
 
 - You can see above one replication process looks like a $\theta$, and the other looks like a $\sigma$. They are basically two modes of replication depending on the the replication fork. This is for double stranded RNA. This isnt an important detail. 
 
-- I will note the existance of conservative and semi conservative replication for viruses. ***Note: This might be important when dealing with mutations, might, look into it.*** 
+- I will note the existance of conservative and semi conservative replication for viruses. ***Note: This might be important when dealing with mutations--might; look into it.*** 
 
 ![[7.6.png]]
 
