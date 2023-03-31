@@ -10,6 +10,7 @@
 
 - As for retro viruses, they take advantage of reverse transcriptase enzyme to convert its RNA into a DNA which codes for it, this DNA is then integrated into the genome. **Idea: Make actual computational models for this enzyme and the process of integration.** 
 
+![[Genetics]]
 
 ## Referance
 

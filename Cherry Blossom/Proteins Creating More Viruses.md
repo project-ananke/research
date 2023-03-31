@@ -8,6 +8,8 @@
 
 - Alternatively, you may have RNA that gets coated in protein then proceeds to bud. There are viruses which code for their own membrane, but I dont believe they are very common. 
 
+![[Proteins or Molecular Biology in general]]
+
 
 ## Reference 
 

@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Viruses.md",
+                "file": "Genetic Mutation Viruses.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e9709d263564449",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Genes Coding For Proteins Viruses.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7be0fec8bd99f93f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Genetics.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,7 +115,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -157,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Viruses.md",
+                "file": "Genetics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Viruses.md",
+                "file": "Genetics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Viruses.md"
+                "file": "Genetics.md"
               }
             }
           }
@@ -218,18 +243,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a0c4e537d604923e",
+  "active": "7be0fec8bd99f93f",
   "lastOpenFiles": [
-    "Proteins Creating More Viruses.md",
-    "Images/8.png",
     "Viruses.md",
-    "Proviruses.md",
+    "Genetics.md",
+    "Spike Proteins.md",
+    "Viral Envelopes.md",
     "Main.md",
-    "Genetic Mutation Viruses.md",
+    "Proteins Creating More Viruses.md",
+    "Proviruses.md",
     "Genetic Infection.md",
     "Genes Coding For Proteins Viruses.md",
-    "Viral Envelopes.md",
-    "Spike Proteins.md",
+    "Proteins or Molecular Biology in general.md",
+    "Genetic Mutation Viruses.md",
+    "Images/8.png",
     "Images/7.6.png",
     "Images/7.5.png",
     "Images/7.4.png",

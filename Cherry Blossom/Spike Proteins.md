@@ -14,6 +14,11 @@
 
 - These chapters didnt really cover spike proteins all that much, all I got out of it was that viruses bind to specific receptors. 
 
+## Form 
+
+![[Proteins or Molecular Biology in general]]
+
+
 ## Reference 
 
 Virology - chapter 4, 5, 6

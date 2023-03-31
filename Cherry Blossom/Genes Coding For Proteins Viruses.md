@@ -99,6 +99,13 @@
 
 - Reverse transcription uses reverse trascriptase. ***Note: You can optionally investigate chapter 16 for retroviruses. I dont know how valuable that will be. Just something to think about.*** 
 
+## Form 
+
+- The form it takes is genetics and proteins, maybe this can fall under genetics and molecular biology, im not entirely sure though. 
+
+![[Genetics]]
+
+![[Proteins or Molecular Biology in general]]
 
 ## Referance 
 

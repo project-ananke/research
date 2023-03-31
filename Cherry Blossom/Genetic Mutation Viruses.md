@@ -43,7 +43,13 @@
 
 - You may have heard of H1N1, these refer to the combination of surface glycoproteins. Combination of H and N genes determine its name. H (haemagglutinin) N (neuraminidase)
 
-- 
+## Form
+
+- The form it takes is for the DNA and RNA mutations and replication, aswell as evolution. I will say that this falls under genetics, albeit rudimentary genetics. 
+
+![[Genetics]]
+
+
 
 ## Referance 
 

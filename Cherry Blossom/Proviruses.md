@@ -4,6 +4,8 @@
 
 - thats about all ill say. 
 
+![[Genetics]]
+
 ## Reference
 
 - Independant Study or chapter 16 
